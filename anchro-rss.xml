@@ -76,6 +76,7 @@
 			<itunes:duration>02:06:00</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6331349/6331349-1668878303312-f04622df7d1f5.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
+			<podcast:chapters url="https://apollo.rss.com/chapters/761606" type="application/json+chapters"/>
 		</item>
 	</channel>
 </rss>
